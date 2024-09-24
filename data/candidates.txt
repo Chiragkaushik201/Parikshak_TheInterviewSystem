@@ -1,0 +1,5 @@
+user1,capgemini,11111,Bhogi Karthik,100020003000,delhi,bachelor of technology
+user2,capgemini,11112,Likith Chandra,100120013001,hyderabad,bachelor of technology
+user3,capgemini,11113,Nikhil Sourav,100220023002,chennai,bachelor of technology
+user4,capgemini,11114,Ekparna Banerjee,100320033003,kolkata,bachelor of technology
+user5,capgemini,11115,Chirag Kaushik,100420043004,mumbai,bachelor of technology
